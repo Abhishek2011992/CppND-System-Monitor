@@ -1,3 +1,0 @@
-/home/aptiv/Documents/01_Personal/Udacity/Cpp_Course/Project2/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
-/home/aptiv/Documents/01_Personal/Udacity/Cpp_Course/Project2/CppND-System-Monitor/build/CMakeFiles/monitor.dir
-/home/aptiv/Documents/01_Personal/Udacity/Cpp_Course/Project2/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir
